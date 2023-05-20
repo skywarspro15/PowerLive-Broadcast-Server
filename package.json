@@ -15,7 +15,7 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "express-fileupload": "^1.4.0",
-    "node-fetch": "^3.2.6",
+    "node-fetch": "^3.3.1",
     "tmp": "^0.2.1"
   }
 }
